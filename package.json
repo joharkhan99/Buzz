@@ -33,5 +33,9 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
+  "android": {
+    "package": "com.joharkhan051.buzzchatapp",
+    "versionCode": 2
+  },
   "private": true
 }
