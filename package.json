@@ -35,7 +35,7 @@
   },
   "android": {
     "package": "com.joharkhan051.buzzchatapp",
-    "versionCode": 2
+    "versionCode": 3
   },
   "private": true
 }

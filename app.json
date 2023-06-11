@@ -22,7 +22,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.joharkhan051.buzzchatapp"
+      "package": "com.joharkhan051.buzzchatapp",
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
